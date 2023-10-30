@@ -168,9 +168,6 @@ print(predictions)
 print(confusion_matrix(Y_test,predictions))
 print(classification_report(Y_test,predictions))
 ```
-
-## OUTPUT 
-
 ## OUTPUT 
 ### First five rows:
 ![image](https://github.com/Hemapriya-2004/Experiment-4---Implementation-of-MLP-with-Backpropagation/assets/94184828/336fc815-5f51-4f19-8f56-2ae1f41aaeb8)
